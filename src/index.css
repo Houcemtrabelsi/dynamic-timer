@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.time-container {
+  text-align: center;
+}
+.time-inner-container{
+  display: inline-block;
+}
+.time-digits{
+  font-size: 4em;
+ 
+}
+.time-text{
+  display: flex;
+  justify-content: space-around;
+  color: grey;
+}
